@@ -1,0 +1,233 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeDetermineSystem.cmake:211 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The system is: Windows - 10.0.22631 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler: C:/Program Files/LLVM/bin/clang.exe 
+      Build flags: -m64
+      Id flags:  
+      
+      The output was:
+      0
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+      
+      The C compiler identification is Clang, found in:
+        C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/CMakeFiles/3.27.1/CompilerIdC/a.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1158 (message)"
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:221 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Detecting C compiler /showIncludes prefix:
+        
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1158 (message)"
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:221 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Detecting C compiler /showIncludes prefix:
+        
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: C:/Program Files/LLVM/bin/clang++.exe 
+      Build flags: -m64
+      Id flags:  
+      
+      The output was:
+      0
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+      
+      The CXX compiler identification is Clang, found in:
+        C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/CMakeFiles/3.27.1/CompilerIdCXX/a.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1158 (message)"
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:221 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Detecting CXX compiler /showIncludes prefix:
+        
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1158 (message)"
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:221 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Detecting CXX compiler /showIncludes prefix:
+        
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/CMakeFiles/CMakeScratch/TryCompile-8aewmg"
+      binary: "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/CMakeFiles/CMakeScratch/TryCompile-8aewmg"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "-m64"
+      CMAKE_C_FLAGS_DEBUG: "-O0 -g -Xclang -gcodeview"
+      CMAKE_EXE_LINKER_FLAGS: "-m64"
+      CMAKE_MODULE_PATH: "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/generators"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/CMakeFiles/CMakeScratch/TryCompile-8aewmg'
+        
+        Run Build Command(s): C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/bin/cmake.exe -E env VERBOSE=1 C:/ProgramData/chocolatey/bin/mingw32-make.exe -f Makefile cmTC_b9aea/fast
+        C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe  -f CMakeFiles\\cmTC_b9aea.dir\\build.make CMakeFiles/cmTC_b9aea.dir/build
+        make[1]: Entering directory 'C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/CMakeFiles/CMakeScratch/TryCompile-8aewmg'
+        Building C object CMakeFiles/cmTC_b9aea.dir/CMakeCCompilerABI.c.obj
+        C:\\PROGRA~1\\LLVM\\bin\\clang.exe   -m64  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -MD -MT CMakeFiles/cmTC_b9aea.dir/CMakeCCompilerABI.c.obj -MF CMakeFiles\\cmTC_b9aea.dir\\CMakeCCompilerABI.c.obj.d -o CMakeFiles\\cmTC_b9aea.dir\\CMakeCCompilerABI.c.obj -c C:\\Users\\heraa\\.conan2\\p\\cmakefbe68aefa534a\\p\\share\\cmake-3.27\\Modules\\CMakeCCompilerABI.c
+        Linking C executable cmTC_b9aea.exe
+        C:\\Users\\heraa\\.conan2\\p\\cmakefbe68aefa534a\\p\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_b9aea.dir\\link.txt --verbose=1
+        C:\\PROGRA~1\\LLVM\\bin\\clang.exe -fuse-ld=lld-link -nostartfiles -nostdlib -m64  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -m64  -Xlinker /subsystem:console @CMakeFiles\\cmTC_b9aea.dir\\objects1.rsp -o cmTC_b9aea.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_b9aea.lib -Xlinker /pdb:C:\\Users\\heraa\\OneDrive\\Desktop\\OpenGL-Renderer\\build\\Release\\CMakeFiles\\CMakeScratch\\TryCompile-8aewmg\\cmTC_b9aea.pdb -Xlinker /version:0.0  
+        make[1]: Leaving directory 'C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/CMakeFiles/CMakeScratch/TryCompile-8aewmg'
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/CMakeFiles/CMakeScratch/TryCompile-f7lvt3"
+      binary: "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/CMakeFiles/CMakeScratch/TryCompile-f7lvt3"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "-m64"
+      CMAKE_CXX_FLAGS_DEBUG: "-O0 -g -Xclang -gcodeview"
+      CMAKE_EXE_LINKER_FLAGS: "-m64"
+      CMAKE_MODULE_PATH: "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/generators"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/CMakeFiles/CMakeScratch/TryCompile-f7lvt3'
+        
+        Run Build Command(s): C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/bin/cmake.exe -E env VERBOSE=1 C:/ProgramData/chocolatey/bin/mingw32-make.exe -f Makefile cmTC_a9a44/fast
+        C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe  -f CMakeFiles\\cmTC_a9a44.dir\\build.make CMakeFiles/cmTC_a9a44.dir/build
+        make[1]: Entering directory 'C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/CMakeFiles/CMakeScratch/TryCompile-f7lvt3'
+        Building CXX object CMakeFiles/cmTC_a9a44.dir/CMakeCXXCompilerABI.cpp.obj
+        C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE   -m64  -O0 -g -Xclang -gcodeview -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -MD -MT CMakeFiles/cmTC_a9a44.dir/CMakeCXXCompilerABI.cpp.obj -MF CMakeFiles\\cmTC_a9a44.dir\\CMakeCXXCompilerABI.cpp.obj.d -o CMakeFiles\\cmTC_a9a44.dir\\CMakeCXXCompilerABI.cpp.obj -c C:\\Users\\heraa\\.conan2\\p\\cmakefbe68aefa534a\\p\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp
+        Linking CXX executable cmTC_a9a44.exe
+        C:\\Users\\heraa\\.conan2\\p\\cmakefbe68aefa534a\\p\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_a9a44.dir\\link.txt --verbose=1
+        C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -fuse-ld=lld-link -nostartfiles -nostdlib -m64  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -m64  -Xlinker /subsystem:console @CMakeFiles\\cmTC_a9a44.dir\\objects1.rsp -o cmTC_a9a44.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_a9a44.lib -Xlinker /pdb:C:\\Users\\heraa\\OneDrive\\Desktop\\OpenGL-Renderer\\build\\Release\\CMakeFiles\\CMakeScratch\\TryCompile-f7lvt3\\cmTC_a9a44.pdb -Xlinker /version:0.0  
+        make[1]: Leaving directory 'C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/CMakeFiles/CMakeScratch/TryCompile-f7lvt3'
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/Internal/FeatureTesting.cmake:34 (try_compile)"
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/Internal/FeatureTesting.cmake:83 (_record_compiler_features)"
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake:121 (_record_compiler_features_cxx)"
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeDetermineCompileFeatures.cmake:70 (cmake_record_cxx_compile_features)"
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeTestCXXCompiler.cmake:70 (CMAKE_DETERMINE_COMPILE_FEATURES)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting CXX compile features"
+    directories:
+      source: "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/CMakeFiles/CMakeScratch/TryCompile-tj5whd"
+      binary: "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/CMakeFiles/CMakeScratch/TryCompile-tj5whd"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "-m64"
+      CMAKE_CXX_FLAGS_DEBUG: "-O0 -g -Xclang -gcodeview"
+      CMAKE_EXE_LINKER_FLAGS: "-m64"
+      CMAKE_MODULE_PATH: "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/generators"
+    buildResult:
+      variable: "CMAKE_CXX_FEATURE_TEST"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/CMakeFiles/CMakeScratch/TryCompile-tj5whd'
+        
+        Run Build Command(s): C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/bin/cmake.exe -E env VERBOSE=1 C:/ProgramData/chocolatey/bin/mingw32-make.exe -f Makefile cmTC_a16fc/fast
+        C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe  -f CMakeFiles\\cmTC_a16fc.dir\\build.make CMakeFiles/cmTC_a16fc.dir/build
+        make[1]: Entering directory 'C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/CMakeFiles/CMakeScratch/TryCompile-tj5whd'
+        Building CXX object CMakeFiles/cmTC_a16fc.dir/feature_tests.cxx.obj
+        C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE   -m64  -O0 -g -Xclang -gcodeview -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd   -std=c++14 -MD -MT CMakeFiles/cmTC_a16fc.dir/feature_tests.cxx.obj -MF CMakeFiles\\cmTC_a16fc.dir\\feature_tests.cxx.obj.d -o CMakeFiles\\cmTC_a16fc.dir\\feature_tests.cxx.obj -c C:\\Users\\heraa\\OneDrive\\Desktop\\OpenGL-Renderer\\build\\Release\\CMakeFiles\\CMakeScratch\\TryCompile-tj5whd\\feature_tests.cxx
+        Linking CXX executable cmTC_a16fc.exe
+        C:\\Users\\heraa\\.conan2\\p\\cmakefbe68aefa534a\\p\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_a16fc.dir\\link.txt --verbose=1
+        C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -fuse-ld=lld-link -nostartfiles -nostdlib -m64  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -m64  -Xlinker /subsystem:console @CMakeFiles\\cmTC_a16fc.dir\\objects1.rsp -o cmTC_a16fc.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_a16fc.lib -Xlinker /pdb:C:\\Users\\heraa\\OneDrive\\Desktop\\OpenGL-Renderer\\build\\Release\\CMakeFiles\\CMakeScratch\\TryCompile-tj5whd\\cmTC_a16fc.pdb -Xlinker /version:0.0  @CMakeFiles\\cmTC_a16fc.dir\\linkLibs.rsp 
+        make[1]: Leaving directory 'C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/CMakeFiles/CMakeScratch/TryCompile-tj5whd'
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/Internal/FeatureTesting.cmake:34 (try_compile)"
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/Internal/FeatureTesting.cmake:83 (_record_compiler_features)"
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake:129 (_record_compiler_features_cxx)"
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeDetermineCompileFeatures.cmake:70 (cmake_record_cxx_compile_features)"
+      - "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeTestCXXCompiler.cmake:70 (CMAKE_DETERMINE_COMPILE_FEATURES)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting CXX compile features"
+    directories:
+      source: "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/CMakeFiles/CMakeScratch/TryCompile-hzd2zw"
+      binary: "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/CMakeFiles/CMakeScratch/TryCompile-hzd2zw"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "-m64"
+      CMAKE_CXX_FLAGS_DEBUG: "-O0 -g -Xclang -gcodeview"
+      CMAKE_EXE_LINKER_FLAGS: "-m64"
+      CMAKE_MODULE_PATH: "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/generators"
+    buildResult:
+      variable: "CMAKE_CXX_FEATURE_TEST"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/CMakeFiles/CMakeScratch/TryCompile-hzd2zw'
+        
+        Run Build Command(s): C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/bin/cmake.exe -E env VERBOSE=1 C:/ProgramData/chocolatey/bin/mingw32-make.exe -f Makefile cmTC_8d798/fast
+        C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe  -f CMakeFiles\\cmTC_8d798.dir\\build.make CMakeFiles/cmTC_8d798.dir/build
+        make[1]: Entering directory 'C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/CMakeFiles/CMakeScratch/TryCompile-hzd2zw'
+        Building CXX object CMakeFiles/cmTC_8d798.dir/feature_tests.cxx.obj
+        C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE   -m64  -O0 -g -Xclang -gcodeview -std=c++23 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd   -std=c++14 -MD -MT CMakeFiles/cmTC_8d798.dir/feature_tests.cxx.obj -MF CMakeFiles\\cmTC_8d798.dir\\feature_tests.cxx.obj.d -o CMakeFiles\\cmTC_8d798.dir\\feature_tests.cxx.obj -c C:\\Users\\heraa\\OneDrive\\Desktop\\OpenGL-Renderer\\build\\Release\\CMakeFiles\\CMakeScratch\\TryCompile-hzd2zw\\feature_tests.cxx
+        Linking CXX executable cmTC_8d798.exe
+        C:\\Users\\heraa\\.conan2\\p\\cmakefbe68aefa534a\\p\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_8d798.dir\\link.txt --verbose=1
+        C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -fuse-ld=lld-link -nostartfiles -nostdlib -m64  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -m64  -Xlinker /subsystem:console @CMakeFiles\\cmTC_8d798.dir\\objects1.rsp -o cmTC_8d798.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_8d798.lib -Xlinker /pdb:C:\\Users\\heraa\\OneDrive\\Desktop\\OpenGL-Renderer\\build\\Release\\CMakeFiles\\CMakeScratch\\TryCompile-hzd2zw\\cmTC_8d798.pdb -Xlinker /version:0.0  @CMakeFiles\\cmTC_8d798.dir\\linkLibs.rsp 
+        make[1]: Leaving directory 'C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/CMakeFiles/CMakeScratch/TryCompile-hzd2zw'
+        
+      exitCode: 0
+...

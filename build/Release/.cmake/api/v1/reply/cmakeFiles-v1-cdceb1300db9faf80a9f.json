@@ -1,0 +1,349 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/CMakeFiles/3.27.1/CMakeSystem.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/conan_toolchain.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/CMakeFiles/3.27.1/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/CMakeFiles/3.27.1/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/Compiler/Clang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/Platform/Windows-Clang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/Platform/Windows-Clang.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/CMakeFiles/3.27.1/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/Compiler/Clang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/Platform/Windows-Clang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/Platform/Windows-Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/FindOpenGL.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/glfw3-config-version.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/glfw3-config.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/cmakedeps_macros.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/glfw3Targets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/glfw3-release-x86_64-data.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/glfw3-Target-release.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/opengl_system-config-version.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/opengl_system-config.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/cmakedeps_macros.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/opengl_systemTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/opengl_system-release-x86_64-data.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/opengl_system-Target-release.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/glm-config-version.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/glm-config.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/cmakedeps_macros.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/glmTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/glm-release-x86_64-data.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/glm-Target-release.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/fmt-config-version.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/fmt-config.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/cmakedeps_macros.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/fmtTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/fmt-release-x86_64-data.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/fmt-Target-release.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/spdlog-config-version.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/spdlog-config.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/cmakedeps_macros.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/spdlogTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/spdlog-release-x86_64-data.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/spdlog-Target-release.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/yaml-cpp-config-version.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/yaml-cpp-config.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/cmakedeps_macros.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/yaml-cppTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/yaml-cpp-release-x86_64-data.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Release/generators/yaml-cpp-Target-release.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/heraa/.conan2/p/cmakefbe68aefa534a/p/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"path" : "src/CMakeLists.txt"
+		},
+		{
+			"path" : "Sandbox/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release",
+		"source" : "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

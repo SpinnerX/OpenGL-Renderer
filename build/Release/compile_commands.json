@@ -1,0 +1,50 @@
+[
+{
+  "directory": "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/src",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang.exe -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DYAML_CPP_STATIC_DEFINE @CMakeFiles/Renderer.dir/includes_C.rsp -m64 -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -o CMakeFiles\\Renderer.dir\\Renderer\\glad\\glad.c.obj -c C:\\Users\\heraa\\OneDrive\\Desktop\\OpenGL-Renderer\\src\\Renderer\\glad\\glad.c",
+  "file": "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/src/Renderer/glad/glad.c",
+  "output": "src/CMakeFiles/Renderer.dir/Renderer/glad/glad.c.obj"
+},
+{
+  "directory": "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/src",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DYAML_CPP_STATIC_DEFINE @CMakeFiles/Renderer.dir/includes_CXX.rsp -m64 -O3 -DNDEBUG -std=c++23 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -o CMakeFiles\\Renderer.dir\\Renderer\\Application.cpp.obj -c C:\\Users\\heraa\\OneDrive\\Desktop\\OpenGL-Renderer\\src\\Renderer\\Application.cpp",
+  "file": "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/src/Renderer/Application.cpp",
+  "output": "src/CMakeFiles/Renderer.dir/Renderer/Application.cpp.obj"
+},
+{
+  "directory": "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/src",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DYAML_CPP_STATIC_DEFINE @CMakeFiles/Renderer.dir/includes_CXX.rsp -m64 -O3 -DNDEBUG -std=c++23 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -o CMakeFiles\\Renderer.dir\\Renderer\\Graphics\\Camera.cpp.obj -c C:\\Users\\heraa\\OneDrive\\Desktop\\OpenGL-Renderer\\src\\Renderer\\Graphics\\Camera.cpp",
+  "file": "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/src/Renderer/Graphics/Camera.cpp",
+  "output": "src/CMakeFiles/Renderer.dir/Renderer/Graphics/Camera.cpp.obj"
+},
+{
+  "directory": "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/src",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DYAML_CPP_STATIC_DEFINE @CMakeFiles/Renderer.dir/includes_CXX.rsp -m64 -O3 -DNDEBUG -std=c++23 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -o CMakeFiles\\Renderer.dir\\Renderer\\image\\stb_image.cpp.obj -c C:\\Users\\heraa\\OneDrive\\Desktop\\OpenGL-Renderer\\src\\Renderer\\image\\stb_image.cpp",
+  "file": "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/src/Renderer/image/stb_image.cpp",
+  "output": "src/CMakeFiles/Renderer.dir/Renderer/image/stb_image.cpp.obj"
+},
+{
+  "directory": "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/src",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DYAML_CPP_STATIC_DEFINE @CMakeFiles/Renderer.dir/includes_CXX.rsp -m64 -O3 -DNDEBUG -std=c++23 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -o CMakeFiles\\Renderer.dir\\Renderer\\Graphics\\ObjectPrimitive.cpp.obj -c C:\\Users\\heraa\\OneDrive\\Desktop\\OpenGL-Renderer\\src\\Renderer\\Graphics\\ObjectPrimitive.cpp",
+  "file": "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/src/Renderer/Graphics/ObjectPrimitive.cpp",
+  "output": "src/CMakeFiles/Renderer.dir/Renderer/Graphics/ObjectPrimitive.cpp.obj"
+},
+{
+  "directory": "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/src",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DYAML_CPP_STATIC_DEFINE @CMakeFiles/Renderer.dir/includes_CXX.rsp -m64 -O3 -DNDEBUG -std=c++23 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -o CMakeFiles\\Renderer.dir\\Renderer\\Graphics\\Object.cpp.obj -c C:\\Users\\heraa\\OneDrive\\Desktop\\OpenGL-Renderer\\src\\Renderer\\Graphics\\Object.cpp",
+  "file": "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/src/Renderer/Graphics/Object.cpp",
+  "output": "src/CMakeFiles/Renderer.dir/Renderer/Graphics/Object.cpp.obj"
+},
+{
+  "directory": "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/src",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DYAML_CPP_STATIC_DEFINE @CMakeFiles/Renderer.dir/includes_CXX.rsp -m64 -O3 -DNDEBUG -std=c++23 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -o CMakeFiles\\Renderer.dir\\Renderer\\Graphics\\Shader.cpp.obj -c C:\\Users\\heraa\\OneDrive\\Desktop\\OpenGL-Renderer\\src\\Renderer\\Graphics\\Shader.cpp",
+  "file": "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/src/Renderer/Graphics/Shader.cpp",
+  "output": "src/CMakeFiles/Renderer.dir/Renderer/Graphics/Shader.cpp.obj"
+},
+{
+  "directory": "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/build/Release/Sandbox",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DYAML_CPP_STATIC_DEFINE @CMakeFiles/Sandbox.dir/includes_CXX.rsp -m64 -O3 -DNDEBUG -std=c++23 -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -o CMakeFiles\\Sandbox.dir\\Application.cpp.obj -c C:\\Users\\heraa\\OneDrive\\Desktop\\OpenGL-Renderer\\Sandbox\\Application.cpp",
+  "file": "C:/Users/heraa/OneDrive/Desktop/OpenGL-Renderer/Sandbox/Application.cpp",
+  "output": "Sandbox/CMakeFiles/Sandbox.dir/Application.cpp.obj"
+}
+]
